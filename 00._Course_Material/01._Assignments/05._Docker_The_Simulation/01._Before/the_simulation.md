@@ -35,7 +35,7 @@ The simulator also simulates a growing interest in your product. As the semester
 
 ## The simulator - Max expected response times
 
-Adhering to a good rule of thumb, the maximum acceptable response times are as following:
+Adhering to a good rule of thumb, the maximum acceptable response times are as follows:
 
 | Route        | Maximum Response Time (seconds) |
 |--------------|---------------------------------|
